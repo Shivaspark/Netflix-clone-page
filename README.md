@@ -1,4 +1,4 @@
-# Netflix-Clone
+# Netflix Landing Page - Clone
 This is a clone landing page of Netflix made using **HTML, CSS and JavaScript.**
 
 ## 📸 Screenshots
